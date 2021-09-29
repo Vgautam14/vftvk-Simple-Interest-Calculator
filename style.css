@@ -1,4 +1,36 @@
-body {background-color:tan;}
-h1{color:green;}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color:black;
+  font-family:Arial, Helvetica, sans-serif;  
+}
+.thead {
+  color:grey;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:30px;
+}
+.container {
+  background-color:white;
+  width:auto;
+  max-width:500px;
+  padding:30px 30px 30px 60px;
+  border-radius:25px;
+  align-self:center;
+  margin:150px auto auto auto;
+}
+#table{
+align-self:center;
+border-spacing: 0em 1em;
+padding-left: 60px;
+}
+#compute{
+  padding-left: 60px;
+}
+#foot {
+font-size:14px;
+}
+
 
 
